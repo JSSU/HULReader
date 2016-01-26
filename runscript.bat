@@ -1,0 +1,1 @@
+C:\Python34\python.exe Z:\autoRead\newimport.py
